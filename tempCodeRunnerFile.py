@@ -1,5 +1,2 @@
-count = int(input())
-ls = list(map(int, input().split()))
-max = max(ls)
-min = min(ls)
-print(f"{min} {max}")
+
+# dic = {
